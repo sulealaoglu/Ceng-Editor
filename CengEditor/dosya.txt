@@ -1,0 +1,9 @@
+The editor has the capability of loading and saving the text files.
+It supports 26 letters of English alphabet (a-z, A-Z), digits (0-9),
+ space and punctuation marks ( . , : ; ! ? - * + ). Other characters cannot be used and they are ignored.
+
+The words should not be split between two lines. Paragraphs
+(ending with return) can be more than one line.
+
+The editor supports cursor movement in four directions, character
+insertion or deletion at a desired location. It has also two writing modes: insert and overwrite (default mode: insert).
